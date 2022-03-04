@@ -7,9 +7,50 @@ This project is about statistically analyzing platform, genre, game rating, user
 
 Technologies used:
 
-Matplotlib, plotly for graphing
+Matplotlib,
+Numpy,
+Seaborn,
+Matplotlib.style,
+Plotly
+for graphing
+
+
+
 Table of Contents:
-Statistical analysis of Unemployment & Car stocks, Unemployment & Car sales
+
+Relationships to be analyzed
+Regions : Platform Sales
+Genre : Critic Ratings
+Genre : User Ratings
+User Scores: Sales
+Platforms : Global Sales
+Genre Rankings
+
+
+
+
+
+
+
+
+
+
+
+What are the demands in each region for the different game platforms?
+How do components such as Genre and Critic Rating change over time?
+What is the highest user score by genre filtered by rating?
+What is the highest purchased games by genre filtered by rating?
+Which platform (game console) has the highest global sales per genre?
+What is the ranking order by genre in NA, EU, and Japan?
+Which platform (game console) has the highest global sales?
+Which platform (game console) has the highest global sales?
+What is the ranking order of Genre in NA, EU, and Japan?
+Which platform (game console) has the highest global sales?
+What is the ranking order of Genre in NA, EU, and Japan?
+
+
+
+
 Creating a dataframe with the acquired monthly data of stock prices from Api calls to yahoo finance of 10 car manufacturers. Also did an Api call to quandl to get the unemployment rates across the country from Jan 2014 to June 2021
 Explored and analyzed the acquired data, and did a quick quality check.
 Did calculations to get the monthly returns and cumulative returns of all the car stocks.
