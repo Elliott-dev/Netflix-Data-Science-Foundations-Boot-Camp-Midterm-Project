@@ -100,15 +100,29 @@ Create a histogram to show if critics' “harshness” rating changed over time,
 
 Presented assigned powerpoint slides (9&10)
 
+**David Einstein**
+Presented slides 14-21
 
+In Charge of Sharing Powerpoint, and keeping time under 10 minutes
 
+Aggregrated the sum of the total Global Sales based on the Platform and genre.
+
+Aggregated the Total Percentage based on NA, Europe, Japan Regions and showed results on stack chart
+
+Displayed Genre across NA, Europe, Japan and Other Regions on a Table 
+
+Spoke briefly about the problems encountered with the original purpose 
+
+Gave future direction of the project 
+
+Summarized all the findings for my part and the entire group
 
 
 **Team Members:** 
 
 Samantha Meza / https://github.com/samanthaameza
 
-David Einstein / 
+David Einstein / https://github.com/DavidEinstein
 
 Elliott Einstein / https://github.com/Elliott-dev
 
